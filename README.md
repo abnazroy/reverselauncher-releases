@@ -30,6 +30,12 @@ Home redirect requires Android's system Accessibility switch and the Reverse Lau
 
 ![About screen](screenshots/05-about.png)
 
+## Support the Developer
+
+Reverse Launcher is free to use, with no ads, subscriptions, or paid features. Optional donations help support development, device testing, and maintenance; donating does not unlock features.
+
+If Reverse Launcher is useful to you, [donate to Reverse Launcher](https://www.paypal.com/ncp/payment/RX34HJHT2TPF8).
+
 ## Releases
 
 See the [release history](https://github.com/abnazroy/reverselauncher-releases/releases) for APK downloads and version notes.
