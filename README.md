@@ -34,6 +34,12 @@ Google TV and Android TV share the Android platform, but menu paths and availabl
 
 Reference: [Android Developers - Install unknown apps](https://developer.android.com/distribute/marketing-tools/alternative-distribution#unknown-sources).
 
+## Privacy and data
+
+Reverse Launcher has no user accounts, ads, analytics, or developer-operated data collection. Continue Watching reads media-session details published by supported apps and keeps its history only on the device; it is not synced to a server. Home redirect observes supported launcher window changes and does not read screen content.
+
+To display available artwork, the app may request the HTTPS image URL published by a media app, which contacts that image host. A manual update check contacts GitHub, and the Donate link opens PayPal only when selected.
+
 ## Screenshots
 
 ![Home screen with fern canopy wallpaper](screenshots/01-home-fern-canopy.png)
