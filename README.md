@@ -28,7 +28,6 @@ Home redirect requires Android's system Accessibility switch and the Reverse Lau
 
 ![Home screen with neon city wallpaper](screenshots/04-home-neon-city.png)
 
-![About screen](screenshots/05-about.png)
 
 ## Support the Developer
 
