@@ -26,6 +26,8 @@ Home redirect requires Android's system Accessibility switch and the Reverse Lau
 
 ![Launcher settings](screenshots/02-settings.png)
 
+![TV access permissions for Home redirect and Continue Watching](screenshots/06-access-permissions.png)
+
 ![Home screen with neon city wallpaper](screenshots/04-home-neon-city.png)
 
 
