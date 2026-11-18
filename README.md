@@ -44,6 +44,8 @@ Reference: [Android Developers - Install unknown apps](https://developer.android
 
 ![TV access permissions for Home redirect and Continue Watching](screenshots/06-access-permissions.png)
 
+![Android TV Notification access permission showing Reverse Launcher playback tracking enabled](screenshots/07-tv-current.png)
+
 ## Support the Developer
 
 Reverse Launcher is free to use, with no ads, subscriptions, or paid features. Optional donations help support development, device testing, and maintenance; donating does not unlock features.
