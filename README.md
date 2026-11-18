@@ -12,6 +12,10 @@ On Android TV, open **Settings > Apps > Special app access > Notification access
 
 This special access is different from **Settings > Apps > Reverse Launcher > Notifications**. The app-info Notifications switch controls notifications shown by the launcher; Notification Access allows Continue Watching to read media-session details from supported apps. Some TV firmware does not expose a direct settings shortcut, so use the manual path above.
 
+## Enable Home redirect
+
+Home redirect requires Android's system Accessibility switch and the Reverse Launcher service to both be active. A TV can still list the service while system Accessibility is off; in that state, Home redirect will not run.
+
 ## Screenshots
 
 ![Home screen with fern canopy wallpaper](screenshots/01-home-fern-canopy.png)
