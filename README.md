@@ -44,7 +44,9 @@ Reference: [Android Developers - Install unknown apps](https://developer.android
 
 ![TV access permissions for Home redirect and Continue Watching](screenshots/06-access-permissions.png)
 
-![Android TV Notification access permission showing Reverse Launcher playback tracking enabled](screenshots/07-tv-current.png)
+![Android TV Apps settings with Special App Access highlighted but not opened](screenshots/07-tv-apps-screen.png)
+
+![Android TV Notification access permission showing Reverse Launcher playback tracking enabled](screenshots/08-tv-notification-access.png)
 
 ## Support the Developer
 
