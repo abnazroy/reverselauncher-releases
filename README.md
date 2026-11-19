@@ -6,7 +6,11 @@ Reverse Launcher is a TV-first Android home launcher. This public repository con
 
 Download the signed APK from the [latest release](https://github.com/abnazroy/reverselauncher-releases/releases/latest), then open it on your Android TV or phone and follow Android's installation prompts. If Android asks, allow the file manager or browser you used to install apps. Select Reverse Launcher as the Home app when prompted.
 
-The latest launcher update adds **Settings > HDMI inputs** for TVs that expose an input picker; availability depends on TV firmware.
+The latest release, **v1.41**, hides Continue Watching items once they reach 99% watched. Version 1.40 added **Settings > HDMI inputs** for TVs that expose an input picker; availability depends on TV firmware.
+
+## Updating from an older version
+
+Install the new APK over the existing app; uninstalling is not needed. If an older screen or behavior remains after updating, force-stop Reverse Launcher and clear its cache in the device's app settings (menu names vary by TV). Clear app storage/data only as a last resort: this erases local settings, app-lock/PIN setup, and Continue Watching history. Back up settings first if you choose to clear data.
 
 ## Enable Home redirect
 
