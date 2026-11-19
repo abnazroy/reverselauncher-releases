@@ -6,6 +6,8 @@ Reverse Launcher is a TV-first Android home launcher. This public repository con
 
 Download the signed APK from the [latest release](https://github.com/abnazroy/reverselauncher-releases/releases/latest), then open it on your Android TV or phone and follow Android's installation prompts. If Android asks, allow the file manager or browser you used to install apps. Select Reverse Launcher as the Home app when prompted.
 
+The latest launcher update adds **Settings > HDMI inputs** for TVs that expose an input picker; availability depends on TV firmware.
+
 ## Enable Home redirect
 
 In Reverse Launcher, open **Settings > Access Permissions > Make default home**. In Android TV Settings, open **Accessibility** and enable both the system Accessibility switch and **Reverse Launcher home redirect**. Both must be active for Home redirect to work. Some TVs leave the service selected while system Accessibility is off; if Reverse Launcher reports **System off**, enable the system switch as well. The service only detects supported TV Home launcher windows and cannot read screen content.
